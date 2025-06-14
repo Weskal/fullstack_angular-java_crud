@@ -94,7 +94,7 @@ __III)__ In the frotend folder, run Angular
 ng serve
 ```
 
-### 4) Test
+__IV)__ Test
 
 Type http://localhost:4200 in your browser and see if it works!
 
